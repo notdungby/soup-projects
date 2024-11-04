@@ -1,0 +1,11 @@
+This was one of the first games I made. 
+Combining my love for video games and cars.
+I plan to add obbsticles consisting of cars, busses, byclists, and possibly more.
+I will have them going each direction of the road, facing the corresponding way.
+I also will add a main menu, including a play button, settings, customization, and an exit button.
+I will also add a "You Crashed!" text instead of closing the application; including a "Try Again" button and "Menu" button.
+I also want to include music and possibly sound effects and tinker with these.
+I am doing all of this in PyGame.
+
+
+Controls - Arrow Keys
